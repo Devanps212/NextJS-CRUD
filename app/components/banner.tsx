@@ -5,6 +5,9 @@ const Banner = () => {
             <h1 className='text-primary text-center'>Welcome to CRUD
                 <br/>
                 <span className='display-2 d-block mt-3'>Create, Read, Update, Delete</span>
+                <button className="btn btn-primary">
+                  Add
+                </button>
             </h1>
         </div> 
     </div>
